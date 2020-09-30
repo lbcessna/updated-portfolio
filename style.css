@@ -1,0 +1,13 @@
+.card-body{
+    text-align: center;
+}
+.row{
+    border: 10px;
+}
+.row, h1{
+    text-align: center;
+}
+
+.p{
+    text-align: center;
+}
